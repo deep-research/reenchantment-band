@@ -1,0 +1,57 @@
+baseURL: https://reenchantment.band
+languageCode: en-us
+title: Reenchantment
+paginate: 5
+theme: PaperMod
+
+params:
+  defaultTheme: auto
+disableThemeToggle: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+menu:
+    main:
+        - identifier: Links
+          name: Links
+          url: /posts/reenchantment-links/
+          weight: 40
+        # - identifier: categories
+        #   name: categories
+        #   url: /categories/
+        #   weight: 20
+        - identifier: Archive
+          name: Archive
+          url: /archive/
+          weight: 10
+        # - identifier: posts
+        #   name: posts
+        #   url: /posts/
+        #   weight: 10
+        - identifier: Tags
+          name: Tags
+          url: /tags/
+          weight: 20
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 30
+        # - identifier: example
+        #   name: example.org
+        #   url: https://example.org
+        #   weight: 30
+
+params:
+    homeInfoParams:
+        Title: "Reenchantment"
+        Content: "Mystical Rock Music by Victor Fisher"
+
+    # socialIcons: # optional
+    #     - name: "<platform>"
+    #       url: "<link>"
+    #     - name: "<platform 2>"
+    #       url: "<link2>"
