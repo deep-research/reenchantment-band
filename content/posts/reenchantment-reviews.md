@@ -4,9 +4,6 @@ date: 2023-01-14T04:08:18-06:00
 draft: false
 author: Victor Fisher
 tags:
-  - Music
-  - Reenchantment
-  - Reviews
 Params:
   ShowReadingTime: true
   ShowBreadCrumbs: true
