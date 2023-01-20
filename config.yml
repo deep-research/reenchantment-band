@@ -10,6 +10,7 @@ buildFuture: false
 buildExpired: false
 
 googleAnalytics: G-LGV0D87JL3
+disqusShortname: reenchantment-portfolio
 
 minify:
   disableXML: true
