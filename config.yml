@@ -20,6 +20,7 @@ minify:
 params:
   defaultTheme: auto
   disableThemeToggle: false
+  comments: true
 
 menu:
     main:
