@@ -4,12 +4,11 @@ date: 2023-01-14T03:37:22-06:00
 draft: false
 author: Victor Fisher
 tags:
-Params:
-  ShowReadingTime: true
-  ShowBreadCrumbs: true
-  ShowPostNavLinks: true
-  comments: true
-ShowToc: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+comments: true
+ShowToc: true
 ---
 
 ## ✉️ Contact Form
