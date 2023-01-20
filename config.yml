@@ -16,12 +16,6 @@ minify:
   disableXML: true
   minifyOutput: true
 
-
-params:
-  defaultTheme: auto
-  disableThemeToggle: false
-  comments: true
-
 menu:
     main:
         - identifier: Links
@@ -54,9 +48,12 @@ menu:
         #   weight: 30
 
 params:
-    homeInfoParams:
-        Title: "Reenchantment"
-        Content: "Mystical Rock Music by Victor Fisher"
+  defaultTheme: auto
+  disableThemeToggle: false
+  comments: true
+  homeInfoParams:
+      Title: "Reenchantment"
+      Content: "Mystical Rock Music by Victor Fisher"
 
     # socialIcons: # optional
     #     - name: "<platform>"
