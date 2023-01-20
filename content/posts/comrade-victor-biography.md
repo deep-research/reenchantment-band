@@ -7,7 +7,7 @@ tags:
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-comments: false
+comments: true
 ShowToc: true
 ---
 
