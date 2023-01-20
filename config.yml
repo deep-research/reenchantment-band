@@ -60,3 +60,9 @@ params:
     #       url: "<link>"
     #     - name: "<platform 2>"
     #       url: "<link2>"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary

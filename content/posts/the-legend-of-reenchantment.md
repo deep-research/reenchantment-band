@@ -16,14 +16,14 @@ Around the year two thousand and six, a troubled artist known as *The Lord Rever
 ![The Reverend of Despair suffers from a rare form of psychosis](../../reverend-of-despair-psychosis.jpg "The Reverend of Despair suffers from a rare form of psychosis")
 *The Reverend of Despair suffers from a rare form of psychosis*
 
-*The Reverend of Despair* immediately began assembling a team of experts known as *Shroud of Delirium* to help him disseminate this revolutionary information to the wider world. A secret bunker was chosen as the primary base of operations, and couple of nearby encampments were also used for ceremonial purposes. Some extraordinary results were obtained.
+*The Reverend of Despair* immediately began assembling a team of experts known as *Shroud of Delirium* to help him disseminate this revolutionary information to the wider world. *Shroud of Delirium* consisted of *The Reverend of Despair* on guitar and lead vocal, *Pater Shrouder* on bass and David Sommer on drums. A secret bunker was chosen as the primary base of operations, and couple of nearby encampments were also used for ceremonial purposes. Some extraordinary results were obtained in the areas of doom metal  and psychedelic rock music.
 
 ![Shroud of Delirium backyard show](../../shroud-of-delirium-backyard.jpg "Shroud of Delirium backyard show")
 *Shroud of Delirium backyard show*
 
-After the initial experiments were concluded, *The Reverend of Despair* ventured forth and was able to take control of a local [radio station](https://wmxm.org/). Comrade Aaron took a differing approach by fleeing into the wilderness and joining a [commune](https://www.lamafoundation.org/).
+After the initial experiments were concluded, *The Reverend of Despair* ventured forth and was able to take control of a local [radio station](https://wmxm.org/). *Pater Shrouder* took a differing approach by fleeing into the wilderness and joining a [commune](https://www.lamafoundation.org/).
 
-It was around the year two thousand and eighteen that *The Reverend of Despair* acquired the skills to engineer a state of the art propaganda distribution system. To this very day, he remains on the front lines of a crusade to reenchant the world. As Kipling wrote:
+It was around the year two thousand and eighteen that *The Reverend of Despair* created a state of the art propaganda distribution system. To this very day, he remains on the front lines of a crusade to reenchant the world. As Kipling wrote:
 
 > "The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself."  
 > – Rudolph Kipling
