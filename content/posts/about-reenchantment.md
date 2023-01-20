@@ -8,7 +8,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 comments: true
-ShowToc: true
+ShowToc: false
 ---
 
 ### Mystical Rock Music by Victor Fisher

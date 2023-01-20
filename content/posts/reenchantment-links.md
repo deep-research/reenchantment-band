@@ -8,7 +8,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 comments: false
-ShowToc: true
+ShowToc: false
 ---
 
 ## ✉️ Contact Form
