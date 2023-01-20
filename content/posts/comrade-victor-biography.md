@@ -7,7 +7,7 @@ tags:
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-# comments: true
+comments: true
 ShowToc: true
 ---
 
@@ -15,10 +15,3 @@ Comrade Victor is a rock star, cult leader, revolutionary, mad genious and spiri
 
 ![Comrade Victor](../../comrade-victor.jpg "Comrade Victor")
 *Comrade Victor*
-
-<!-- # H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6 -->
