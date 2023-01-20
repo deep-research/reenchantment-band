@@ -4,15 +4,21 @@ title: Reenchantment
 paginate: 5
 theme: PaperMod
 
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: G-LGV0D87JL3
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+
 params:
   defaultTheme: auto
-disableThemeToggle: false
-
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
+  disableThemeToggle: false
 
 menu:
     main:
