@@ -49,7 +49,7 @@ menu:
 
 params:
   defaultTheme: auto
-  disableThemeToggle: false
+  disableThemeToggle: true
   comments: true
   homeInfoParams:
       Title: "Reenchantment"
