@@ -5,10 +5,11 @@ draft: false
 author: Victor Fisher
 tags:
 ShowReadingTime: true
-ShowBreadCrumbs: true
+ShowBreadCrumbs: false
 ShowPostNavLinks: true
 comments: false
 ShowToc: false
+layout: "grey"
 ---
 
 ## ✉️ Contact Form
