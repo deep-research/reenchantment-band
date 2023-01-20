@@ -17,3 +17,5 @@ Reenchantment is a rock and metal solo project by Victor Fisher. The name origin
 
 ![Victor Fisher photo](../../otherworldly-dream-magick.jpg "Victor Fisher photo")
 *Victor Fisher photo*
+
+Testing Update
